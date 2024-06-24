@@ -134,6 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need for a simple, modular shell implementation for educational purposes.
 
----
-
-Feel free to customize the README further according to your specific needs.
